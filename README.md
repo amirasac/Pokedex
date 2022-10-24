@@ -1,9 +1,9 @@
 # Pokédex
 Primeramente debemos descargar el codigo, esto lo hacemos desde el boton que dice codigo escogemos la opcion que dice donwload zip.
 
-Nos descargara una carpeta comprimida, la extraemos y seguidamente ingresamos a ella.
+Nos descargará una carpeta comprimida, la extraemos y seguidamente ingresamos a ella.
 
-Posteriormente para poder ver el Pokédex solo tenemos que abrir el archivo index.html en nuestro navegador favorito.
+Posteriormente para poder ver el Pokédex solo tenemos que abrir el archivo index.html en nuestro navegador de preferencia.
 
 ## Busqueda de un Pokémon 
 
